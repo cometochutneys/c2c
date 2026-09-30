@@ -1,0 +1,9 @@
+<svg width="900" height="560" viewBox="0 0 900 560" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs><filter id="s" x="70" y="75" width="760" height="400"><feDropShadow dx="0" dy="24" stdDeviation="25" flood-color="#10251A" flood-opacity=".22"/></filter></defs>
+  <g filter="url(#s)">
+    <path d="M110 370C183 419 300 445 450 445C600 445 717 419 790 370" stroke="#C4A865" stroke-width="20" stroke-linecap="round"/>
+    <g><ellipse cx="255" cy="280" rx="125" ry="94" fill="#FBF6E8" stroke="#DFD2B5" stroke-width="8"/><ellipse cx="255" cy="275" rx="99" ry="70" fill="#6FA34B"/><circle cx="220" cy="250" r="7" fill="#152C1D"/><circle cx="274" cy="293" r="6" fill="#152C1D"/><path d="M230 304C251 281 275 272 302 280" stroke="#F4D339" stroke-width="7" stroke-linecap="round"/></g>
+    <g><ellipse cx="450" cy="245" rx="125" ry="94" fill="#FBF6E8" stroke="#DFD2B5" stroke-width="8"/><ellipse cx="450" cy="240" rx="99" ry="70" fill="#F0EEE3"/><circle cx="416" cy="218" r="7" fill="#152C1D"/><circle cx="480" cy="260" r="6" fill="#152C1D"/><path d="M420 266C445 246 469 239 493 246" stroke="#6FA34B" stroke-width="7" stroke-linecap="round"/></g>
+    <g><ellipse cx="645" cy="280" rx="125" ry="94" fill="#FBF6E8" stroke="#DFD2B5" stroke-width="8"/><ellipse cx="645" cy="275" rx="99" ry="70" fill="#C85A18"/><circle cx="614" cy="248" r="7" fill="#F1C842"/><circle cx="680" cy="296" r="6" fill="#F1C842"/><path d="M615 303C639 280 666 273 694 281" stroke="#6D2A0C" stroke-width="7" stroke-linecap="round"/></g>
+  </g>
+</svg>

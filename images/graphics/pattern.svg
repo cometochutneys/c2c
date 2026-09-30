@@ -1,0 +1,7 @@
+<svg width="360" height="360" viewBox="0 0 360 360" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <g stroke="#E4AB0D" stroke-opacity=".18" stroke-width="2">
+    <circle cx="180" cy="180" r="128"/><circle cx="180" cy="180" r="92"/><circle cx="180" cy="180" r="54"/>
+    <path d="M180 20C204 75 242 113 300 132C244 156 206 204 180 340C155 204 116 156 60 132C118 113 156 75 180 20Z"/>
+    <path d="M20 180C75 156 113 118 132 60C156 116 204 154 340 180C204 205 156 244 132 300C113 242 75 204 20 180Z"/>
+  </g>
+</svg>

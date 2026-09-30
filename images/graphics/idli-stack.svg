@@ -1,0 +1,19 @@
+<svg width="760" height="620" viewBox="0 0 760 620" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="94" y1="48" x2="654" y2="584" gradientUnits="userSpaceOnUse"><stop stop-color="#20462E"/><stop offset="1" stop-color="#0E2116"/></linearGradient>
+    <radialGradient id="idli" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(370 340) rotate(90) scale(93 130)"><stop stop-color="#FFFDF7"/><stop offset="1" stop-color="#E9E0CA"/></radialGradient>
+    <filter id="s" x="80" y="90" width="600" height="480" filterUnits="userSpaceOnUse"><feDropShadow dx="0" dy="22" stdDeviation="22" flood-color="#06140B" flood-opacity=".42"/></filter>
+  </defs>
+  <rect x="30" y="30" width="700" height="560" rx="90" fill="url(#bg)"/>
+  <g opacity=".12" stroke="#F6C83F" stroke-width="2"><circle cx="380" cy="310" r="220"/><circle cx="380" cy="310" r="175"/><circle cx="380" cy="310" r="130"/></g>
+  <g filter="url(#s)">
+    <ellipse cx="380" cy="430" rx="234" ry="86" fill="#F7EED8" stroke="#D9CBA7" stroke-width="8"/>
+    <ellipse cx="290" cy="376" rx="122" ry="78" fill="url(#idli)" stroke="#D8CBAF" stroke-width="5"/>
+    <ellipse cx="454" cy="370" rx="126" ry="82" fill="url(#idli)" stroke="#D8CBAF" stroke-width="5"/>
+    <ellipse cx="378" cy="300" rx="128" ry="84" fill="url(#idli)" stroke="#D8CBAF" stroke-width="5"/>
+    <circle cx="205" cy="456" r="50" fill="#5C9E48" stroke="#F7EED8" stroke-width="10"/>
+    <circle cx="555" cy="457" r="50" fill="#C85B18" stroke="#F7EED8" stroke-width="10"/>
+    <path d="M354 188C335 158 368 144 352 116" stroke="#F7F3E7" stroke-width="9" stroke-linecap="round" opacity=".7"/>
+    <path d="M414 184C396 154 430 138 414 108" stroke="#F7F3E7" stroke-width="9" stroke-linecap="round" opacity=".55"/>
+  </g>
+</svg>
