@@ -1,0 +1,18 @@
+{
+  "name": "come-to-chutneys",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Come to Chutneys restaurant website",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^5.4.11",
+    "vite-plugin-image-optimizer": "^1.1.8",
+    "sharp": "^0.35.5",
+    "svgo": "^3.3.2"
+  }
+}
